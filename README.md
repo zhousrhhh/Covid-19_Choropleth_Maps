@@ -1,4 +1,4 @@
-# Covid-19_Choropleth_Maps
+# Covid-19 Case Choropleth Maps
 
 In this [project](code.ipynb) I used Python to visualize three different choropleth maps of looking at the Covid-19 case data in New York State. All three maps use the New York state counties map as the base map. While we're going to create a few very nice maps, we'll also get a lot of Pandas practice along the way! The three different maps we'll create are:
 1. The first map looks at the total number of positive cases in each county adjusted for population (incidence). The resulting choropleth map will show which counties were the hardest hit by Covid-19 from the start of the pandemic till the last data date. My version of this map (last data date = 02/14/2023) is in the file [map 1.html](map_results).
